@@ -1,0 +1,2 @@
+# javascript_projects
+一些javascript或者jQuery的练习
